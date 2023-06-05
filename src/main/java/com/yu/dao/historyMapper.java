@@ -1,7 +1,7 @@
 package com.yu.dao;
 
-import com.yu.domain.history;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.yu.domain.history;
 
 /**
 * @author za'y
@@ -9,6 +9,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 * @createDate 2023-06-04 11:32:36
 * @Entity com.yu.domain.history
 */
+
 public interface historyMapper extends BaseMapper<history> {
 
 }
