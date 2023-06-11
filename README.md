@@ -5,18 +5,25 @@
 
 # 小程序技术
 样式:weui
+
 深度学习框架:Paddle.js
+
 位置插件:腾讯定位选点服务
+
 代码地址https://github.com/0xiaoyu/wx-garbage
 
 # 小程序后端代码
 语言:java
+
 依赖管理:maven
+
 框架:springboot mybatis-plus
+
 数据库:mysql
 
 # 项目介绍
 微信小程序期末作业--垃圾分类后端代码
+
 由springboot和mybatis-plus快速开发
 
 存储机器学习的数据库
@@ -25,7 +32,9 @@
 后台审核平台未做 懒得搞的，本来的设计是应该要有一个后台审核的，不可能说用户说添加就添加的。
 
 # 数据库设计图
+
 ![1](https://github.com/0xiaoyu/wx-garbage-backend/assets/107329505/f6c8ed78-0d1c-4696-bcdb-3e31cdf68cd6)
+
 sql小脚本
 ```sql
 create table garbage_location
