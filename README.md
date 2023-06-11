@@ -33,7 +33,7 @@
 
 # 数据库设计图
 
-![1](https://github.com/0xiaoyu/wx-garbage-backend/assets/107329505/f6c8ed78-0d1c-4696-bcdb-3e31cdf68cd6)
+![1](1.png)
 
 sql小脚本
 ```sql
